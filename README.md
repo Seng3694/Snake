@@ -1,19 +1,19 @@
-#Snake Game
+# Snake Game #
 Small project for testing the [Love2D][1] game framework.
 
 ![Preview][6]
 
-###Resources
+### Resources ###
 Font in the beginning is from [Pizzadude][2].
 Any other "art" is made by myself. You can use it like you want.
 
-### Tools
+### Tools ###
 - Drawing: [Aseprite][3]
 - Animating: [Aseprite][3]
 - Maps: [Tiled][4]
 - Music: [BeepBox][5]
 
-### Modules
+### Modules ###
 - Json: [rxi][7]
 - Serialization: [Julio Manuel Fernandez-Diaz][8]
 
